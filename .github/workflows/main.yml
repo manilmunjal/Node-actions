@@ -25,4 +25,4 @@ jobs:
         run: npm run build
 
       - name: Start Server
-        run: npm start
+        run: npm run
