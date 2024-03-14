@@ -1,12 +1,12 @@
 {
   "name": "my-node-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple Node.js application demonstrating Express.js",
   "main": "index.js",
   "scripts": {
-   
     "start": "node index.js",
-    "build": "mkdir -p .github/workflows/dist && echo 'Build step (if needed)' > .github/workflows/dist/build-info.txt"
+    "build": "echo 'Build step (placeholder, no build required for this basic app)'",  // Placeholder, adjust if needed
+    "test": "echo 'No tests defined yet'"  // Add placeholder for future tests
   },
   "keywords": [],
   "author": "",
